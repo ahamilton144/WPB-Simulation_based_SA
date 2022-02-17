@@ -1,0 +1,2 @@
+# WPB-Simulation_based_SA
+The Jupyter Notebook "WPB-Simulation_based_SA.ipynb" contains code/analysis/figures for the blog post titled "Milton Friedman’s thermostat and sensitivity analysis of control policies" by Andrew Hamilton, on February 17, 2022, on the Water Programming Blog. https://waterprogramming.wordpress.com/2022/02/17/milton-friedmans-thermostat-and-sensitivity-analysis-of-control-policies/
